@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Jitesh7891.github.io/your-repo-name",
+  "homepage": "https://Jitesh7891.github.io/Fitness-Dashboard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
