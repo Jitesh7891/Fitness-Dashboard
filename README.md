@@ -29,20 +29,15 @@ A personal fitness dashboard built with React and Vite, showcasing charts, activ
 ## Getting Started
 
 1. Clone the repository:
-git clone https://github.com/your-username/fitness-dashboard.git
+git clone https://github.com/Jitesh7891/fitness-dashboard.git
 
 2. Install dependencies:
 npm install
 
-markdown
-Copy
-Edit
-
 3. Run the development server:
 npm run dev
-
 
 ## Deployment
 
 Hosted on:  
-[https://your-deployment-link.com](https://your-deployment-link.com)
+https://jitesh7891.github.io/Fitness-Dashboard/
