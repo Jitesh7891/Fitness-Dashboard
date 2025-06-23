@@ -6,7 +6,7 @@ A personal fitness dashboard built with React and Vite, showcasing charts, activ
 
 - Interactive charts for calories, steps, and workout trends using Chart.js
 - Toggle views for daily, weekly, and monthly stats
-- Bootstrap cards displaying current goals and fitness summaries
+- Cards displaying current goals and fitness summaries
 - Table log showing historical workout and activity data
 - Fully responsive layout with grid-based design
 - Modular architecture with reusable components
